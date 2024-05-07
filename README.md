@@ -1,5 +1,16 @@
-### Hi there 👋
-Belum jadi
+### Hai, mau liat apa? 👋👁️
+Mau nyari calon *Software Engineer* berbakat 100% sukses dunia akhirat? Ya, disinilah tempatnya!
+
+Perkenalkan saya **Fadhil**, developer asal Jawa Barat.
+
+Jawa Barat sebelah mana? yang pasti di sebelah kiri Jawa Tengah. (*xixixixixi awikwok wkwk cekakak*)
+
+
+
+-
+-
+
+
 <!--
 **fadhil3310/fadhil3310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +25,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Kontak? virgianofadhil@gmail.com 👈
