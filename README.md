@@ -3,7 +3,7 @@ Mau nyari calon *Software Engineer* berbakat 100% sukses dunia akhirat? Ya, disi
 
 Perkenalkan saya **Fadhil**, developer asal Jawa Barat.
 
-Jawa Barat sebelah mana? yang pasti di sebelah kiri Jawa Tengah. (*xixixixixi awikwok wkwk cekakak*)
+Jawa Barat sebelah mana? sebelah kiri Jawa Tengah. (*xixixixixi awikwok wkwk cekakak*)
 
 
 
