@@ -16,7 +16,7 @@ Jawa Barat sebelah mana? sebelah kiri Jawa Tengah. (*xixixixixi awikwok wkwk cek
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,kotlin,cpp&perline=14" />
+    <img src="https://skillicons.dev/icons?i=md,md,md,md,md,cs,kotlin,cpp,md,md,md,md,md&perline=14" />
   </a>
 </p>
 
@@ -52,7 +52,7 @@ Jawa Barat sebelah mana? sebelah kiri Jawa Tengah. (*xixixixixi awikwok wkwk cek
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,c,rust&perline=14" />
+    <img src="https://skillicons.dev/icons?i=md,md,md,md,md,mongodb,c,rust,md,md,md,md,md&perline=14" />
   </a>
 </p>
 
