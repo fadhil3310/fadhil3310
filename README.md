@@ -8,10 +8,12 @@ Perkenalkan saya **Fadhil**, developer asal Jawa Barat.
 Jawa Barat sebelah mana? sebelah kiri Jawa Tengah. (*xixixixixi awikwok wkwk cekakak ngakak abiezzz*)
 
 
+<br>
+<p align="center">: under construction :</p>
+<p align="center">: under construction :</p>
+<p align="center">: under construction :</p>
+<br>
 
--
-- under construction
-- 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadhil3310)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
