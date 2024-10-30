@@ -16,25 +16,13 @@ Jawa Barat sebelah mana? sebelah kiri Jawa Tengah. (*xixixixixi awikwok wkwk cek
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,c,c&perline=14" />
+    <img src="https://skillicons.dev/icons?i=gitlab,gitlab,gitlab&perline=14" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,baba,baba,baba,c&perline=14" />
-  </a>
-</p>
-
-<!--<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,vue,tailwind&perline=14" />
-  </a>
-</p>-->
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,baba,github,baba,c&perline=14" />
+    <img src="https://skillicons.dev/icons?i=gitlab,baba,baba,baba,gitlab&perline=14" />
   </a>
 </p>
 
@@ -46,13 +34,25 @@ Jawa Barat sebelah mana? sebelah kiri Jawa Tengah. (*xixixixixi awikwok wkwk cek
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,baba,baba,baba,c&perline=14" />
+    <img src="https://skillicons.dev/icons?i=gitlab,baba,github,baba,gitlab&perline=14" />
+  </a>
+</p>
+
+<!--<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,vue,tailwind&perline=14" />
+  </a>
+</p>-->
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gitlab,baba,baba,baba,gitlab&perline=14" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,c,c&perline=14" />
+    <img src="https://skillicons.dev/icons?i=gitlab,gitlab,gitlab&perline=14" />
   </a>
 </p>
 
