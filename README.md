@@ -70,4 +70,6 @@ Here are some ideas to get you started:
 -->
 
 
+<p align="center">
 Kontak? virgianofadhil@gmail.com 👈
+</p>
