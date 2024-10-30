@@ -14,7 +14,51 @@ Jawa Barat sebelah mana? sebelah kiri Jawa Tengah. (*xixixixixi awikwok wkwk cek
 - 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadhil3310)](https://github.com/anuraghazra/github-readme-stats)-->
 
+
 <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=md,md,md,md,md,md,md,md,md,md,md,md,md&perline=14" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=md,md,md,md,md,cs,kotlin,cpp,md,md,md,md,md&perline=14" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=md,md,md,md,go,baba,baba,baba,js,md,md,md,md&perline=14" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=md,md,md,md,tailwind,baba,github,baba,react,md,md,md,md&perline=14" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=md,md,md,md,supabase,baba,baba,baba,vue,md,md,md,md&perline=14" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=md,md,md,md,md,mongodb,c,rust,md,md,md,md,md&perline=14" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=md,md,md,md,md,md,md,md,md,md,md,md,md&perline=14" />
+  </a>
+</p>
+
+
+<!--<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=md,md,md,md,md,md,md,md,md,md,md,md,md&perline=14" />
   </a>
@@ -32,23 +76,11 @@ Jawa Barat sebelah mana? sebelah kiri Jawa Tengah. (*xixixixixi awikwok wkwk cek
   </a>
 </p>
 
-<!--<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,vue,tailwind&perline=14" />
-  </a>
-</p>-->
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ba,ba,ba,ba,tailwind,baba,github,baba,react,ba,ba,ba,ba&perline=14" />
   </a>
 </p>
-
-<!--<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,vue,tailwind&perline=14" />
-  </a>
-</p>-->
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -58,7 +90,7 @@ Jawa Barat sebelah mana? sebelah kiri Jawa Tengah. (*xixixixixi awikwok wkwk cek
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ba,ba,ba,ba,ba,mongodb,c,rust,ba,ba,ba,ba,ba&perline=14" />
+    <img src="https://skillicons.dev/icons?i=ba,ba,ba,ba,md,mongodb,c,rust,md,ba,ba,ba,ba&perline=14" />
   </a>
 </p>
 
@@ -66,7 +98,7 @@ Jawa Barat sebelah mana? sebelah kiri Jawa Tengah. (*xixixixixi awikwok wkwk cek
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=md,md,md,md,md,md,md,md,md,md,md,md,md&perline=14" />
   </a>
-</p>
+</p>-->
 
 <!--
 **fadhil3310/fadhil3310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
