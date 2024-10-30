@@ -22,25 +22,13 @@ Jawa Barat sebelah mana? sebelah kiri Jawa Tengah. (*xixixixixi awikwok wkwk cek
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=md,md,md,md,md,cs,kotlin,cpp,md,md,md,md,md&perline=14" />
+    <img src="https://skillicons.dev/icons?i=ba,ba,ba,ba,ba,cs,kotlin,cpp,ba,ba,ba,ba,ba&perline=14" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=md,md,md,md,go,baba,baba,baba,js,md,md,md,md&perline=14" />
-  </a>
-</p>
-
-<!--<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,vue,tailwind&perline=14" />
-  </a>
-</p>-->
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=md,md,md,md,tailwind,baba,github,baba,react,md,md,md,md&perline=14" />
+    <img src="https://skillicons.dev/icons?i=ba,ba,ba,ba,go,baba,baba,baba,js,ba,ba,ba,ba&perline=14" />
   </a>
 </p>
 
@@ -52,13 +40,25 @@ Jawa Barat sebelah mana? sebelah kiri Jawa Tengah. (*xixixixixi awikwok wkwk cek
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=md,md,md,md,supabase,baba,baba,baba,vue,md,md,md,md&perline=14" />
+    <img src="https://skillicons.dev/icons?i=ba,ba,ba,ba,tailwind,baba,github,baba,react,ba,ba,ba,ba&perline=14" />
+  </a>
+</p>
+
+<!--<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,vue,tailwind&perline=14" />
+  </a>
+</p>-->
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ba,ba,ba,ba,supabase,baba,baba,baba,vue,ba,ba,ba,ba&perline=14" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=md,md,md,md,md,mongodb,c,rust,md,md,md,md,md&perline=14" />
+    <img src="https://skillicons.dev/icons?i=ba,ba,ba,ba,ba,mongodb,c,rust,ba,ba,ba,ba,ba&perline=14" />
   </a>
 </p>
 
