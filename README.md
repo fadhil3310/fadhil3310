@@ -1,4 +1,6 @@
-### Hai, mau liat apa? 👋👁️
+<h2 align="center">
+  <strong>Hai, mau liat apa? 👋👁️</strong>
+</h2>
 Mau nyari calon *Software Engineer* berbakat 100% sukses dunia akhirat? Ya, disinilah tempatnya!
 
 Perkenalkan saya **Fadhil**, developer asal Jawa Barat.
