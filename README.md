@@ -71,5 +71,5 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-Kontak? virgianofadhil@gmail.com 👈
+📩 <a href="mailto:virgianofadhil@gmail.com">virgianofadhil@gmail.com</a> 📩
 </p>
