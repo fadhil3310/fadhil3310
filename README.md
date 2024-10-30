@@ -22,7 +22,7 @@ Jawa Barat sebelah mana? sebelah kiri Jawa Tengah. (*xixixixixi awikwok wkwk cek
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,baba,baba,baba,js&perline=14" />
+    <img src="https://skillicons.dev/icons?i=md,md,md,md,go,baba,baba,baba,js,md,md,md,md&perline=14" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@ Jawa Barat sebelah mana? sebelah kiri Jawa Tengah. (*xixixixixi awikwok wkwk cek
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,baba,github,baba,react&perline=14" />
+    <img src="https://skillicons.dev/icons?i=md,md,md,md,tailwind,baba,github,baba,react,md,md,md,md&perline=14" />
   </a>
 </p>
 
@@ -46,7 +46,7 @@ Jawa Barat sebelah mana? sebelah kiri Jawa Tengah. (*xixixixixi awikwok wkwk cek
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=supabase,baba,baba,baba,vue&perline=14" />
+    <img src="https://skillicons.dev/icons?i=md,md,md,md,supabase,baba,baba,baba,vue,md,md,md,md&perline=14" />
   </a>
 </p>
 
