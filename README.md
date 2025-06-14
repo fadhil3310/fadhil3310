@@ -5,18 +5,22 @@
 <h2 align="center">
   <strong>Hai, mau liat apa? 👋👁️</strong>
 </h2>
-Mau nyari calon *Software Engineer* berbakat 100% sukses dunia akhirat? Ya, disinilah tempatnya!
-
-Perkenalkan saya **Fadhil**, developer asal Jawa Barat.
-
+<p align="center">
+Mau nyari calon <i>Software Engineer</i> berbakat 100% sukses dunia akhirat? Ya, disinilah tempatnya!
+</p>
+<p align="center">
+Perkenalkan saya <strong>Fadhil</strong>, developer asal Jawa Barat.
+</p>
+<p align="center">
 Jawa Barat sebelah mana? sebelah kiri Jawa Tengah. (*xixixixixi awikwok wkwk cekakak ngakak abiezzz*)
-
+</p>
 
 <br>
 <p align="center">: under construction :</p>
 <p align="center">: under construction :</p>
 <p align="center">: under construction :</p>
 <br>
+
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadhil3310)](https://github.com/anuraghazra/github-readme-stats)-->
 
