@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="banner_github_1.png">
+</div>
 <h2 align="center">
   <strong>Hai, mau liat apa? 👋👁️</strong>
 </h2>
