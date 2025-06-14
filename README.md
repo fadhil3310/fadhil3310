@@ -1,6 +1,7 @@
 <div align="center">
   <img src="banner_github_1.png">
 </div>
+
 <h2 align="center">
   <strong>Hai, mau liat apa? 👋👁️</strong>
 </h2>
@@ -124,3 +125,8 @@ Here are some ideas to get you started:
 <p align="center">
 📩 <a href="mailto:virgianofadhil@gmail.com">virgianofadhil@gmail.com</a> 📩
 </p>
+
+
+<div align="center">
+  <img src="banner_github_2.png">
+</div>
