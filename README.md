@@ -3,16 +3,13 @@
 </div>
 
 <h2 align="center">
-  <strong>Hai, mau liat apa? 👋👁️</strong>
+  <strong>Hi, I'm Fadhil 👋👁️</strong>
 </h2>
+
+
+
 <p align="center">
-Mau nyari calon <i>Software Engineer</i> berbakat 100% sukses dunia akhirat? Ya, disinilah tempatnya!
-</p>
-<p align="center">
-Perkenalkan saya <strong>Fadhil</strong>, developer asal Jawa Barat.
-</p>
-<p align="center">
-Jawa Barat sebelah mana? sebelah kiri Jawa Tengah. (*xixixixixi awikwok wkwk cekakak ngakak abiezzz*)
+Just a regular software engineer "wannabe"
 </p>
 
 <br>
@@ -21,9 +18,17 @@ Jawa Barat sebelah mana? sebelah kiri Jawa Tengah. (*xixixixixi awikwok wkwk cek
 <p align="center">: under construction :</p>
 <br>
 
+<p align="center">
+  <img src="image_1.jpg" width="250px">
+  <img src="image_2.jpg" width="250px">
+  <img src="image_3.jpg" width="250px">
+</p>
 
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadhil3310)](https://github.com/anuraghazra/github-readme-stats)-->
-
+<br>
+<p align="center">: under construction :</p>
+<p align="center">: under construction :</p>
+<p align="center">: under construction :</p>
+<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
